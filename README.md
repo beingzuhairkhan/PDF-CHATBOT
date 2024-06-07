@@ -1,3 +1,6 @@
+GenAI MedBot
+
+
 Medical Chatbot
 Overview
 The Medical Chatbot is an AI-driven application designed to provide accurate and reliable medical information.
